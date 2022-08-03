@@ -1,6 +1,6 @@
 # BetterPhotos
 
-![Design preview for the BetterPhotos](./preview.jpg)
+![Design preview for the BetterPhotos](./preview.JPG)
 
 ## Welcome! 👋
 
